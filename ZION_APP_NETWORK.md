@@ -13,6 +13,6 @@ Node of the **Zion AI App Network** — 678+ interconnected AI apps, tools and f
 ## Related
 - https://github.com/Zion-support/zion-field-city-abidjan
 - https://github.com/Zion-support/zion-field-city-luanda
-- https://github.com/Zion-support/zion-field-city-kigali
+- https://github.com/Zion-support/zion-field-city-johannesburg
 
 © 2026 Zion Tech Group.
